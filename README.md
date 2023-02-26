@@ -1,1 +1,1 @@
-# ComputerNetworks
+An iterative DNS server for type A queris built in java (can be used as a sinkhole server to block unwanted domains)
